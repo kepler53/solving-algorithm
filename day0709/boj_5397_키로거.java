@@ -40,7 +40,7 @@ public class boj_5397_키로거 {
             while (!right.isEmpty()) {
                 result += right.pop();
             }
-
+            System.out.println("commit test");
             System.out.println(result);
         }
 
